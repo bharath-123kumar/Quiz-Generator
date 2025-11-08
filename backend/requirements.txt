@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+langchain
+openai
+python-dotenv
+typing_extensions
