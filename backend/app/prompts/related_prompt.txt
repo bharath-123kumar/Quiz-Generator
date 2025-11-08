@@ -1,0 +1,2 @@
+You are given the article text. Return a JSON array (list) of 6 suggested related Wikipedia topics (short phrases). Prioritize topics that are directly referenced in the article (e.g., people, institutions, technologies) and avoid generic topics. Output must be a JSON array, e.g.
+["Cryptography", "Enigma machine", "Bletchley Park"]
